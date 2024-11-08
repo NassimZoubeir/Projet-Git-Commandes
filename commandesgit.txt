@@ -29,5 +29,3 @@ git checkout --theirs (nom du fichier.txt) : pour choisir l'autre version (git h
 les 3 commandes pour modifier : git add, git commit, git push
 
 shift + insert pour coller
-
-.......
